@@ -12,7 +12,9 @@ xiexie 3
 
 提交5
 
-tijiao 6
+tijiao 
+
+tijiao7
 
 This is a fully functional Jenkins server.
 [http://jenkins.io/](http://jenkins.io/).
