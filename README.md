@@ -16,7 +16,9 @@ tijiao
 
 tijiao7
 
-tijia18
+tijia8
+
+tijiao9
 
 This is a fully functional Jenkins server.
 [http://jenkins.io/](http://jenkins.io/).
