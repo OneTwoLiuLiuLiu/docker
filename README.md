@@ -20,9 +20,11 @@ tijia8
 
 tijiao9
 
-tijiao10
+tiji10
 
 tijiao11
+
+tijiao12
 
 This is a fully functional Jenkins server.
 [http://jenkins.io/](http://jenkins.io/).
